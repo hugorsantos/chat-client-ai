@@ -1,40 +1,39 @@
-# [Java Continuous Integration and Delivery with Microsoft Azure and Github Actions](https://www.udemy.com/course/java-continuous-integration-continuous-delivery-azure-e-github-actions/?couponCode=GTHB_FLASH_SALE2021)
-### [Domine Integração e Entrega Continuas com JUnit 5, Mockito, Spring Boot 3, TestContainers, Github Actions, Docker, Microsoft Azure e+](https://www.udemy.com/course/java-continuous-integration-continuous-delivery-azure-e-github-actions/?couponCode=GTHB_FLASH_SALE2021)
+# Spring AI Angular
 
-[![Continuous Integration with Github Actions](https://github.com/leandrocgsi/java-continuous-integration-and-delivery-with-azure/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/leandrocgsi/java-continuous-integration-and-delivery-with-azure/actions/workflows/continuous-integration.yml)
+This project is a sample application showcasing a Java Spring AI backend alongside an Angular frontend. It demonstrates the integration of Spring AI services (such as chat and book prompts) with an Angular UI.
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/28_CICD_JavaAzure.png?raw=true "Java Continuous Integration and Delivery with Azure and Github Actions")](https://www.udemy.com/course/java-continuous-integration-continuous-delivery-azure-e-github-actions/?couponCode=GTHB_FLASH_SALE2021)
+## 🚀 Tecnologies
 
-Este é o repositório dos codigos fonte desenvolvidos no curso [Java CI e CD com Testes, Microsoft Azure e Github Actions](https://www.udemy.com/course/java-continuous-integration-continuous-delivery-azure-e-github-actions/?couponCode=GTHB_FLASH_SALE2021)
+- Java 25
+- Spring Boot 3.5.x (Spring 6)
+- Spring AI (including OpenAI, Gemini, Azure OpenAI, OCI AI)
+- Maven
+- PostgreSQL
+- Angular v20
+- Angular Material
 
-# Cursos Relacionados
+## ✏️ Tutorial (English)
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/rest_apis_restful_do_0_à_nuvem_com_spring_boot_2_e_docker.png?raw=true "REST API's RESTFul do 0 à AWS com Spring Boot 3, Java e Docker")](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/?couponCode=GTHB_FLASH_SALE2021)
+These blog posts describe step by step how to create the code in this repository:
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/tests_java.png?raw=true "Java Unit Testing com Spring Boot 3, TDD, Junit 5 e Mockito")](https://www.udemy.com/course/java-unit-testing-com-java-spring-boot-3-junit-5-e-mockito/?couponCode=GTHB_FLASH_SALE2021)
+- [Getting Starting with Intelligent Java Applications using Spring AI
+](https://loiane.com/2024/12/getting-starting-with-intelligent-java-applications-using-spring-ai/)
+- [Intelligent Java Applications using Spring AI and Gemini
+](https://loiane.com/2025/01/intelligent-java-applications-using-spring-ai-and-gemini/)
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/25_CICD_JavaAWS.png?raw=true "Java Continuous Integration and Delivery com AWS e Github Actions")](https://www.udemy.com/course/java-continuous-integration-continuous-delivery-aws-e-github-actions/?couponCode=LAUNCH_CDCD_JAVA)
+## 💻 Videos (Portuguese)
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_do_zero_a_maestria_conteinerizacao_desmistificada.png?raw=true "Docker do Zero à Maestria - Contêinerização Desmistificada")](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
+These videos showcase how to create this repository step by step:
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices.png?raw=true "Microservices do 0 à GCP com Spring Boot, Kubernetes e Docker")](https://www.udemy.com/course/microservices-do-0-a-gcp-com-spring-boot-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
+<details><summary><b>Intro and Simple Chat Client</b></summary>
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/rest_apis_restful_do_0_a_nuvem_com_asp_net_core_e_docker.png?raw=true "REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker")](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/?couponCode=GTHB_FLASH_SALE2021)
+- [Spring AI + Angular: Introdução](https://youtu.be/10oDBG6V5Q8)
+- [Spring AI + Angular: Primeiro Projeto [Chat Client]](https://youtu.be/M7j84Y16bFk)
+- [Spring AI + Angular: Chat Client com Gemini](https://youtu.be/Kq37KNwt3bA)
+- [Spring AI + Angular: Chat Client com Azure OpenAI](https://youtu.be/fjkZjObT3ro)
+- Spring AI + Angular: Chat Client com Oracle GenAI
+- [Spring AI + Angular: Criando Projeto Angular](https://youtu.be/WUhUB0IChxE)
+- Spring AI + Angular: Criando Cliente de Chat
+- Spring AI + Angular: Conectando Cliente de Chat com API
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices_.net6.png?raw=true "Arquitetura de Microsserviços do 0 com ASP.NET, .NET 6 e C#")](https://www.udemy.com/course/microservices-do-0-a-gcp-com-dot-net-6-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
-
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_para_amazon_aws_implante_apps_java_e_dot_net_com_travis_ci.png?raw=true "Docker para Amazon AWS Implante Apps Java e .NET com Travis CI")](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
-
-## In English
-
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/rest_apis_restful_from_0_to_aws_with_spring_boot_and_docker.png?raw=true "REST API's RESTFul from 0 to AWS with Spring Boot and Docker")](https://www.udemy.com/course/rest-apis-restful-from-0-to-aws-with-spring-boot-and-docker/?couponCode=GTHB_FLASH_SALE2021)
-
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_to_amazon_aws_deploy_apps_java_and_dot_net_with_travis_ci.png?raw=true "Docker to Amazon AWS Deploy Java & .NET Apps with Travis CI")](https://www.udemy.com/course/docker-to-amazon-aws-deploy-java-net-apps-with-travis-ci/?couponCode=GTHB_FLASH_SALE2021)
-
-## [Configuração do Ambiente de Desenvolvimento Spring Boot e Java no Windows](https://www.youtube.com/watch?v=sdY-N6nnyaE)
-
-[![Montando um Ambiente de Desenvolvimento Spring Boot e Java no Windows: Minicurso Gratuito Completo!](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/cover/windows.png)](https://www.youtube.com/watch?v=sdY-N6nnyaE)
-
-## [Configuração do Ambiente de Desenvolvimento Spring Boot e Java no Linux (Ubuntu/Debian)](https://www.youtube.com/watch?v=dEszOKOR4Nk)
-
-[![Montando um Ambiente de Desenvolvimento Spring Boot e Java no Linux: Minicurso Gratuito Completo!](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/cover/linux.png)](https://www.youtube.com/watch?v=dEszOKOR4Nk)
+</details>
